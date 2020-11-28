@@ -4,7 +4,12 @@
   "description": "Collection of custom addons for NestJS",
   "author": "Rodrigo Fuenzalida",
   "license": "UNLICENSED",
-  "keywords": ["nestjs", "addons", "tracing", "db"],
+  "keywords": [
+    "nestjs",
+    "addons",
+    "tracing",
+    "db"
+  ],
   "main": "dist/index.js",
   "scripts": {
     "test": "jest --verbose",
@@ -56,5 +61,16 @@
     ],
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrwan/nestjs-addons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rodrwan/nestjs-addons/issues"
+  },
+  "homepage": "https://github.com/rodrwan/nestjs-addons#readme"
 }
