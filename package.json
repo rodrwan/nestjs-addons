@@ -1,6 +1,6 @@
 {
   "name": "@rodrwan/nestjs-addons",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Collection of custom addons for NestJS",
   "author": "Rodrigo Fuenzalida",
   "license": "UNLICENSED",
