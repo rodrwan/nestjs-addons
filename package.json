@@ -1,9 +1,10 @@
 {
   "name": "@rodrwan/nestjs-addons",
   "version": "0.0.1",
-  "description": "",
+  "description": "Collection of custom addons for NestJS",
   "author": "Rodrigo Fuenzalida",
   "license": "UNLICENSED",
+  "keywords": ["nestjs", "addons", "tracing", "db"],
   "main": "dist/index.js",
   "scripts": {
     "test": "jest --verbose",
