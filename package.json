@@ -4,6 +4,7 @@
   "description": "Collection of custom addons for NestJS",
   "author": "Rodrigo Fuenzalida",
   "license": "UNLICENSED",
+  "private": false,
   "keywords": [
     "nestjs",
     "addons",
